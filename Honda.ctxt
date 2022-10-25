@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ gettype()
+comment1.params=type
+comment1.target=void\ find(int)
+comment2.params=type\ cost
+comment2.target=void\ printcost(int,\ int)
+numComments=3
